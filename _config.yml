@@ -116,7 +116,7 @@ analytics:
 author:
   name             : "Roberto Miele"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Handling the information from the Earth"
+  bio              : "Well as you see, this site is in construction"
   location         : "Lausanne, Switzerland"
   email            :
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
@@ -150,13 +150,12 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/romiele/"
-      
-    - label: "Facebook"
-      icon: "fab fa-fw fa-square-facebook"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
+    - label: "OrcID"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0002-2815-228X"
+    - label: "ResearchGate"
+      icon: "fab fa-fw fa-researchgate"
+      url: "https://www.researchgate.net/profile/Roberto-Miele"
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
