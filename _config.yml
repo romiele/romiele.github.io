@@ -143,15 +143,16 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-square-x-twitter"
-      # url:
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google-scholar"
+      url: "https://scholar.google.com/citations?user=NeSFYk0AAAAJ&hl=it"
       # rel: "me"  # optional: adds rel attribute (e.g. for IndieWeb web sign-in)
-    - label: "Facebook"
-      icon: "fab fa-fw fa-square-facebook"
-      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
+      url: "https://github.com/romiele/"
+      
+    - label: "Facebook"
+      icon: "fab fa-fw fa-square-facebook"
       # url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
@@ -162,7 +163,7 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-  since: "2013"
+  since: "2019"
 
 
 # Reading Files
