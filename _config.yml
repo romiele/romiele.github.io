@@ -114,16 +114,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Roberto Miele"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Handling the information from the Earth"
+  location         : "Lausanne, Switzerland"
   email            :
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
     - label: "Email"
       icon: "fas fa-fw fa-square-envelope"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:roberto.miele@unil.ch"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
