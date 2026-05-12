@@ -23,7 +23,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Roberto Miele"
 description              : "An amazing website."
 url                      : "https://rmiele.github.io" # the base hostname & protocol for your site
-baseurl                  : "/home" # the subpath of your site, e.g. "/blog"
+baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "romiele/romiele" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : 
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -116,7 +116,7 @@ analytics:
 author:
   name             : "Roberto Miele"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Well as you see, this site is in construction"
+  bio              : "Well well well it seems like you got to this website before it could be ready. What a shame"
   location         : "Lausanne, Switzerland"
   email            :
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
