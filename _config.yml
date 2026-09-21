@@ -116,7 +116,7 @@ analytics:
 author:
   name             : "Roberto Miele, PhD"
   avatar           : "/assets/images/profilepic.jpg"
-  bio              : "Machine learning | Geological modeling | Geophysical inversion"
+  bio              : "AI | Geological modeling | Geophysical inversion"
   location         : "Lausanne, Switzerland"
   email            : "roberto.miele@unil.ch"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
