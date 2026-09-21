@@ -20,7 +20,7 @@ direction                : # "ltr" (default), "rtl" # set the direction of the p
 title                    : "Roberto Miele"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Roberto Miele"
+name                     : ""
 description              : ""
 url                      : "https://rmiele.github.io" # the base hostname & protocol for your site
 baseurl                  : # the subpath of your site, e.g. "/blog"
