@@ -3,4 +3,4 @@ layout: single
 author_profile: true
 ---
 
-I am a Postdoctoral researcher at the University of Lausanne and I love my grzybka Luzia
+I am a geologist, all of my faults are stress-related.
