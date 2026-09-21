@@ -10,9 +10,9 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
+theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "catppuccin_latte" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "catppuccin_latte", "catppuccin_mocha"
+minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "catppuccin_latte", "catppuccin_mocha"
 
 # Site Settings
 locale                   : "en-US"
@@ -25,7 +25,7 @@ description              : "An amazing website."
 url                      : "https://rmiele.github.io" # the base hostname & protocol for your site
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "romiele/romiele" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/500x300.png"
+teaser                   : "/assets/images/profilepic.png"
 logo                     : /assets/images/88x88.png
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
@@ -116,28 +116,41 @@ analytics:
 author:
   name             : "Roberto Miele, PhD"
   avatar           : "/assets/images/profilepic.jpg"
-  bio              : "Machine learning | Geological modeling | Geophysical inversion <br> University of Lausanne - Institue of Earth Sciences"
+  bio              : "Machine learning | Geological modeling | Geophysical inversion"
   location         : "Lausanne, Switzerland"
-  email            :
+  email            : "roberto.miele@unil.ch"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
     - label: "Email"
       icon: "fas fa-fw fa-square-envelope"
       url: "mailto:roberto.miele@unil.ch"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-square-x-twitter"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-square-facebook"
-      # url: "https://facebook.com/"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google-scholar"
+      url: "https://scholar.google.com/citations?user=NeSFYk0AAAAJ&hl=it"
+      # rel: "me"  # optional: adds rel attribute (e.g. for IndieWeb web sign-in)
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
+      url: "https://github.com/romiele/"
+    - label: "OrcID"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0002-2815-228X"
+    - label: "ResearchGate"
+      icon: "fab fa-fw fa-researchgate"
+      url: "https://www.researchgate.net/profile/Roberto-Miele"
+   # - label: "Website"
+   #   icon: "fas fa-fw fa-link"
+      # url: "https://your-website.com"
+   # - label: "Twitter"
+   #   icon: "fab fa-fw fa-square-x-twitter"
+      # url: "https://twitter.com/"
+   # - label: "Facebook"
+   #   icon: "fab fa-fw fa-square-facebook"
+      # url: "https://facebook.com/"
+    #- label: "GitHub"
+    #  icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+    #- label: "Instagram"
+    #  icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
 # Site Footer
