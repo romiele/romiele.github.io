@@ -116,7 +116,7 @@ analytics:
 author:
   name             : "Roberto Miele, PhD"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Machine learning for geological modeling and inversion | University of Lausanne - Institue of Earth Sciences"
+  bio              : "Machine learning | Geological modeling | Geophysical inversion | University of Lausanne - Institue of Earth Sciences"
   location         : "Lausanne, Switzerland"
   email            :
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
