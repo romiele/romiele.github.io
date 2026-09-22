@@ -25,8 +25,8 @@ description              : "Roberto Miele, PhD. Academic personal website."
 url                      : "https://rmiele.github.io" # the base hostname & protocol for your site
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "romiele/romiele" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : #/assets/images/profilepic.png
-logo                     : #"/assets/images/88x88.png"
+teaser                   : /assets/images/profilepic.png
+logo                     : /assets/images/profilepic.png
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
@@ -116,7 +116,7 @@ analytics:
 author:
   name             : "Roberto Miele, PhD"
   avatar           : "/assets/images/profilepic.jpg"
-  bio              : "AI | Geological modeling | Geophysical inversion"
+  bio              : "AI and statistics | Geological modeling | Geophysical inversion"
   location         : "Lausanne, Switzerland"
   email            : "roberto.miele@unil.ch"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
