@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "catppuccin_mocha" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "catppuccin_latte", "catppuccin_mocha"
+minimal_mistakes_skin    : "catppuccin_latte" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "catppuccin_latte", "catppuccin_mocha"
 
 # Site Settings
 locale                   : "en-US"
@@ -21,13 +21,13 @@ title                    : ""
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Roberto Miele"
-description              : Roberto Miele, PhD. Academic personal website.
+description              : "Roberto Miele, PhD. Academic personal website."
 url                      : "https://rmiele.github.io" # the base hostname & protocol for your site
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "romiele/romiele" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : /assets/images/profilepic.png
-logo                     : /assets/images/profilepic.png
-masthead_title           : "Roberto Miele" # overrides the website title displayed in the masthead, use " " for no title
+teaser                   : "/assets/images/profilepic.png"
+logo                     : "/assets/images/profilepic.png"
+masthead_title           : "" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
